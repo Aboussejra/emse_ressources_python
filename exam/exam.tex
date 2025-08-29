@@ -1,0 +1,51 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+\setlength{\parskip}{0.8em}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+\Large \textbf{Exercice de fin de cours – Introduction à Python}\\[0.5em]
+\small Cursus Médecine–Ingénieur
+\end{center}
+
+Vous allez réaliser une analyse de données médicales en autonomie à l’aide de \texttt{Python}.  
+Le jeu de données choisi peut provenir de n'importe quel source ouverte, voici des exemples:
+\begin{itemize}
+    \item \href{https://www.kaggle.com/datasets}{Kaggle}
+    \item \href{https://archive.ics.uci.edu/datasets}{UCI Machine Learning Repository}
+    \item \href{https://data.gouv.fr/}{Data.gouv.fr}
+\end{itemize}
+Choisissez un ensemble de données qui vous intéresse, quel que soit le domaine médical !  
+
+\section*{Travail demandé}
+
+Proposez une analyse scientifique libre en utilisant les outils et librairies Python que vous souhaitez, en exemple les plus classiques :
+\begin{itemize}
+    \item \texttt{pandas/polars} (pour le chargement et la manipulation des données : tables, tris, filtres). \\
+          Documentation officielle Pandas : \href{https://pandas.pydata.org/docs/}{https://pandas.pydata.org/docs/} \\
+          Polars : \href{https://www.pola.rs/}{https://www.pola.rs/}
+    \item \texttt{numpy} (pour les calculs numériques, statistiques simples) \\
+          Documentation officielle NumPy : \href{https://numpy.org/doc/}{https://numpy.org/doc/}
+    \item \texttt{matplotlib/seaborn} (pour générer des graphiques) \\
+          matplotlib : \href{https://matplotlib.org/stable/contents.html}{https://matplotlib.org/stable/contents.html} \\
+          seaborn : \href{https://seaborn.pydata.org/}{https://seaborn.pydata.org/}
+\end{itemize}
+
+\newpage
+\section*{Rendu attendu}
+
+Le rendu sera un PDF contenant :
+\begin{itemize}
+    \item les résultats graphiques et statistiques,
+    \item le code commenté vous ayant permis d'avoir ce résultat,
+    \item une analyse/interprétation personnelle de vos observations des données choisies.
+\end{itemize}
+N'hésitez pas à explorer librement ! L'important est d'apprendre à utiliser Python dans un contexte médical, et à communiquer vos découvertes (et non d'écrire du code robuste d'ingénieur logiciel).
+
+P.S.: Les plus motivés peuvent tester la création d’un dashboard interactif (voir librairie \texttt{streamlit} : \href{https://streamlit.io/}{https://streamlit.io/}), voire même l'héberger en ligne mais c’est optionnel et plus du travail d'ingénieur qu'autre chose.
+
+\end{document}

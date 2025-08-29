@@ -1,0 +1,2 @@
+build:
+	pdflatex exam.tex
