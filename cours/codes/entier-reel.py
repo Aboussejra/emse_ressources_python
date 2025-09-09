@@ -1,0 +1,1 @@
+#importation moduleimport math#variable de type entiera=2#variable de type reelb=(1+math.sqrt(5))/2#operation mathematique#le resultat est un reel simple precision #type floatc=a+b

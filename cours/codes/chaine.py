@@ -1,0 +1,1 @@
+#creation chaine 1chaine1 = 'Bonjour!'#creation chaine 2chaine2 = 'Paul'#concatenation de deux chaineschaine  = chaine1+' '+chaine2print(chaine)#nombre de caracteresprint(len(chaine))#affichage caractere par caractere for c in chaine:    print(c)    #Est-ce qu'un caractere est present dans la chaine ?#reponse True ou Falseprint('e' in chaine)

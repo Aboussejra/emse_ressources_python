@@ -1,0 +1,83 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction à Python}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}G\'en\'eralit\'es}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Bibliographie}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Utiliser Python avec Google Colab (recommandé)}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Installation de packages Python dans Colab}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Installation python avec anaconda (non recommandé)}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Environnement Spyder}{7}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Organisation d'un script Python}{8}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Manipulation fichiers en lecture/\'ecriture}{10}{subsection.1.8}%
+\contentsline {subsubsection}{\numberline {1.8.1}D\'efinition}{10}{subsubsection.1.8.1}%
+\contentsline {subsubsection}{\numberline {1.8.2}Exemple}{10}{subsubsection.1.8.2}%
+\contentsline {subsubsection}{\numberline {1.8.3}Exercice}{12}{subsubsection.1.8.3}%
+\contentsline {subsubsection}{\numberline {1.8.4}Correction}{12}{subsubsection.1.8.4}%
+\contentsline {section}{\numberline {2}Types de donn\'ees}{13}{section.2}%
+\contentsline {subsection}{\numberline {2.1}entiers/réels}{13}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Définition}{13}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Exemple}{13}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}vecteur/matrice}{14}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Définition}{14}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Exemple}{14}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Cha\^ines de caractères}{16}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Définition}{16}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Exemple}{16}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Listes}{17}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Définition}{17}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Exemple}{17}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Exercice}{18}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Correction}{18}{subsubsection.2.4.4}%
+\contentsline {section}{\numberline {3}Principaux modules}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}math}{19}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Définition}{19}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Exemples}{19}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}numpy}{20}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Définition}{20}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Exemples}{20}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}matplotlib.pyplot}{22}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Définition}{22}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Exemples}{22}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}time}{26}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}D\'efinition}{26}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Exemple}{26}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Exercice}{26}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Correction}{26}{subsubsection.3.4.4}%
+\contentsline {section}{\numberline {4}Impl\'ementations d'algorithmes}{27}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Comparaison entre nombres réels ou entier}{27}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Impl\'ementation de la clause Pour}{28}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Impl\'ementation de la clause Tant que }{29}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Un exemple d'algorithme it\'eratif}{30}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Impl\'ementation avec la clause {\textbf {while}}}{30}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Impl\'ementation avec la clause {\textbf {for}}}{32}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}Cas d'un algorithme r\'ecursif}{34}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Définition}{34}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Exemple}{34}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}Exercice}{34}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}Correction}{35}{subsubsection.4.5.4}%
+\contentsline {section}{\numberline {5}Exercices \`a traiter}{36}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Premier exercice: }{36}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Enonc\'e}{36}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Correction}{37}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Second exercice :}{38}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Enonc\'e}{38}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Correction}{38}{subsubsection.5.2.2}%
+\contentsline {section}{\numberline {6}Connaissances \`a ma\^itriser}{39}{section.6}%
+\contentsline {section}{\numberline {7}Correction de l'examen de 2021}{40}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Exercice 1}{40}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Exercice 2}{41}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Exercice 3}{42}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Correction de l’examen de 2022}{43}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Exercice 1}{43}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Exercice 2}{45}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Exercice 3}{47}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Exercice 4}{48}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Correction de l’examen de 2023}{49}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Exercice 1}{49}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Exercice 2}{51}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Exercice 3}{52}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Exercice 4}{54}{subsection.9.4}%
+\contentsline {section}{\numberline {10}Correction de l’examen de 2024}{55}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Exercice 1}{55}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Exercice 2}{59}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Exercice 3}{61}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Exercice 4}{63}{subsection.10.4}%
