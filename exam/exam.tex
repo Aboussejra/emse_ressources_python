@@ -8,8 +8,7 @@
 \begin{document}
 
 \begin{center}
-\Large \textbf{Exercice de fin de cours – Introduction à Python}\\[0.5em]
-\small Cursus Médecine–Ingénieur
+\Large \textbf{Exercice de fin de cours – Programmation Python}\\[0.5em]
 \end{center}
 
 Vous allez réaliser une analyse de données médicales en autonomie à l’aide de \texttt{Python}.  
@@ -19,15 +18,18 @@ Le jeu de données choisi peut provenir de n'importe quel source ouverte, voici 
     \item \href{https://archive.ics.uci.edu/datasets}{UCI Machine Learning Repository}
     \item \href{https://data.gouv.fr/}{Data.gouv.fr}
 \end{itemize}
-Choisissez un ensemble de données qui vous intéresse, quel que soit le domaine médical !  
+Choisissez un ensemble de données qui vous intéresse, quel que soit le domaine médical !
+
+Par exemple celles-ci: \href{https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data/data?select=heart_failure_clinical_records_dataset.csv}{Données sur AVCs} peuvent permettre d'analyser l'influence de différents facteurs mesurables (age, anémie, diabète...) et leurs corrélations avec la distribution des morts d'AVCs.
+
+Pour réaliser le travail je recommande un environnement facile à utiliser type \href{https://colab.research.google.com/}{Google Colab}
 
 \section*{Travail demandé}
 
 Proposez une analyse scientifique libre en utilisant les outils et librairies Python que vous souhaitez, en exemple les plus classiques :
 \begin{itemize}
-    \item \texttt{pandas/polars} (pour le chargement et la manipulation des données : tables, tris, filtres). \\
-          Documentation officielle Pandas : \href{https://pandas.pydata.org/docs/}{https://pandas.pydata.org/docs/} \\
-          Polars : \href{https://www.pola.rs/}{https://www.pola.rs/}
+    \item \texttt{pandas} (pour le chargement et la manipulation des données : tables, tris, filtres). \\
+          Documentation officielle Pandas : \href{https://pandas.pydata.org/docs/}{https://pandas.pydata.org/docs/}
     \item \texttt{numpy} (pour les calculs numériques, statistiques simples) \\
           Documentation officielle NumPy : \href{https://numpy.org/doc/}{https://numpy.org/doc/}
     \item \texttt{matplotlib/seaborn} (pour générer des graphiques) \\
@@ -38,14 +40,17 @@ Proposez une analyse scientifique libre en utilisant les outils et librairies Py
 \newpage
 \section*{Rendu attendu}
 
-Le rendu sera un PDF contenant :
+Le rendu sera un PDF ou un notebook python (fichier qu'utilise google colab) contenant :
 \begin{itemize}
     \item les résultats graphiques et statistiques,
-    \item le code commenté vous ayant permis d'avoir ce résultat,
+    \item le code vous ayant permis d'avoir ce résultat,
     \item une analyse/interprétation personnelle de vos observations des données choisies.
 \end{itemize}
-N'hésitez pas à explorer librement ! L'important est d'apprendre à utiliser Python dans un contexte médical, et à communiquer vos découvertes (et non d'écrire du code robuste d'ingénieur logiciel).
 
-P.S.: Les plus motivés peuvent tester la création d’un dashboard interactif (voir librairie \texttt{streamlit} : \href{https://streamlit.io/}{https://streamlit.io/}), voire même l'héberger en ligne mais c’est optionnel et plus du travail d'ingénieur qu'autre chose.
+A minima il faudra réussir à écrire du python pour importer des données, les visualiser et les analyser/commenter. Des petites analyses statistiques dessus seraient le bienvenu.
+
+N'hésitez pas à explorer librement ! L'important est d'apprendre à utiliser Python dans un contexte médical, et à communiquer vos analyses (et non d'écrire du code robuste d'ingénieur logiciel).
+
+Soyez concis dans le rendu, ce dernier ne devra pas dépasser 5 pages.
 
 \end{document}
