@@ -24,7 +24,6 @@ a=3.0
 b=4.0
 c=math.sqrt(a**2+b**2)
 print("c=",c)
-#c'est la corde des egyptiens pour obtenir un angle droit
 
 
 
